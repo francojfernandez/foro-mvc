@@ -3,7 +3,7 @@
     <div class="mbr-section__container container">
         <div class="mbr-footer mbr-footer--wysiwyg row">
             <div class="col-sm-12">
-                <p class="mbr-footer__copyright">Copyright (c) 2016 Ocrend Software. <a class="mbr-footer__link text-gray" href="#/">Terminos de Uso</a>  | <a class="mbr-footer__link text-gray" href="#/">Política de Privacidad</a></p>
+                <p class="mbr-footer__copyright"><?php echo APP_COPY ?> <a class="mbr-footer__link text-gray" href="#/">Terminos de Uso</a>  | <a class="mbr-footer__link text-gray" href="#/">Política de Privacidad</a></p>
             </div>
         </div>
     </div>

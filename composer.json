@@ -1,0 +1,11 @@
+{
+
+"config": {
+        "disable-tls": true,
+        "secure-http": false
+    },
+        "require": {
+                "paypal/rest-api-sdk-php": "*",
+                "phpmailer/phpmailer": "^5.2"
+        }
+}
